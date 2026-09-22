@@ -24,7 +24,7 @@ Procurement, app development and website building, under one roof.</p>
 
 | | |
 |---|---|
-| **[Semester Calendar](https://sanoaenterprises.github.io/products/semester-calendar/)** | A study planner for classes, assignments, exams and grades, with optional Google Drive sync. Android and Windows. **[Download](https://github.com/sanoaenterprises/semester-calendar-releases/releases/latest)** |
+| **[Semester Calendar](https://sanoaenterprises.com/products/semester-calendar/)** | A study planner for classes, assignments, exams and grades, with optional Google Drive sync. Android and Windows. **[Download](https://github.com/sanoaenterprises/semester-calendar-releases/releases/latest)** |
 
 ### Contact
 
